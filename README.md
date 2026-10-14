@@ -23,6 +23,10 @@ The first deployment is a 20-robot warehouse simulated in Isaac Sim on the same 
 **Discord:** [discord.gg/KRZSbK4Qt](https://discord.gg/KRZSbK4Qt), where the scheduler posts its cards and takes approvals
 **Built for:** Dell Pro Max with GB10 Hackathon, 2026-10-03, Hult International Business School, Cambridge MA
 
+> **My role:** I built the **command center UI** ([`dashboard/`](./dashboard/)). This is a team project by
+> Ferbin, Thiago, Megha and me (see [Project Details](#project-details)), mirrored from the original
+> repository at [mochi-bunny/navfix](https://github.com/mochi-bunny/navfix).
+
 <p align="center">
   <img src="docs/img/needs.png" alt="Tickets written by the local supervisor LLM" width="900" /><br/>
   <sub>Every ticket here was written by the local supervisor LLM, including a deadlock traced back to the robot that stopped first.</sub>
